@@ -421,7 +421,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .qbootstrap-cover .display-tc h2,
 .video-hero .display-tc h2 {
-  color: #141e78;
+  color: #fff;
   font-size: 80px;
   margin-bottom: 20px;
   font-weight: 300 !important;
@@ -438,7 +438,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .qbootstrap-cover .display-tc p,
 .video-hero .display-tc p {
-  color: #141e78;
+  color: #fff;
   font-weight: 400;
   font-size: 20px;
   letter-spacing: 10px;
